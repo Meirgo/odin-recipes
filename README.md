@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+# The Odin-recipes is a project to create a website consisting of multiple pages with links from each page to another that will each have recipes on them. It will be a basic webpage to show what I've learned most recently consisting up of the basic standard to establish a webpage. Inlcuding adding an Ordered and Unordered lists. Including some bold and italicize text. As well as including links to other pages of the webpage.  
