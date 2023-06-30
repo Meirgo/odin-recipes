@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+}
+
+.header-one {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px; 
+}
+
+.selection {
+    color: white;
+    margin-left: 800px;
+    font-size: 20px;
+}
