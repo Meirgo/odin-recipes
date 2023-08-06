@@ -1,17 +1,26 @@
-* {
-    background-color: black;
+body {
+
+    background: rgb(90, 169, 214);
 }
 
+
+
 .header-one {
-    background-color: white;
+    text-decoration: underline;
     color: black;
     text-align: center;
     font-weight: bold;
     font-size: 50px; 
+    padding: 16px 32px;
 }
 
 .selection {
-    color: white;
-    margin-left: 800px;
+    background: orange;
+    text-align: center;
+    display: block;
     font-size: 20px;
+    padding: 8px 100px;
+    border: 3px solid black;
+    margin: 16px 700px auto;
+
 }
